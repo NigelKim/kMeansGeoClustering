@@ -1,7 +1,7 @@
 # kMeansGeoClustering
 Final Project on Big data application of k-means clustering to both synthetic data and real-world data.
 
-Topic: k-means for Geolocation Clustering in Spark
+Topic: k-means for Geolocation Clustering in Spark\
 Language: Python, PySpark, pandas, MATLAB\
 Virtual Machine(Cloudera), Hadoop, Amazon AWS cluster\
 Course: CSE 427S Cloud Computing with Big Data Applications\
