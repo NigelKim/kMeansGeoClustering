@@ -4,7 +4,7 @@ Final Project on Big data application of k-means clustering to both synthetic da
 Topic: k-means for Geolocation Clustering in Spark
 Language: Python, PySpark, pandas, MATLAB\
 Course: CSE 427S Cloud Computing with Big Data Applications\
-Team Members:\ 
+Team Members:\
 Jacob Lee (Project Manager)\
 Frank Moon (Developer Local)\
 David Yang (Developer Cloud)\
