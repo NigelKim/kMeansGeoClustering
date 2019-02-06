@@ -11,7 +11,7 @@ Frank Moon (Developer Local)\
 David Yang (Developer Cloud)\
 Nigel Kim (Key User)\
 Instructor: Marion Neumann Ph.D.\
-Institution: Washington University In St. Louis
+Institution: Washington University In St. Louis\
 Time: Fall 2018
 
 
