@@ -3,7 +3,7 @@ Final Project on Big data application of k-means clustering to both synthetic da
 
 Topic: k-means for Geolocation Clustering in Spark\
 Language: Python, PySpark, pandas, MATLAB\
-Virtual Machine(Cloudera), Hadoop, Amazon AWS cluster\
+Cloud Tools: Virtual Machine(Cloudera), Hadoop, Amazon AWS cluster\
 Course: CSE 427S Cloud Computing with Big Data Applications\
 Team Members:\
 Jacob Lee (Project Manager)\
